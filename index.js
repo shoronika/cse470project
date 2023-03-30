@@ -1,1 +1,2 @@
-console.log("i love saadat");
+console.log('saadat');
+console.log('saadat');
